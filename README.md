@@ -58,22 +58,19 @@ To create a music app that:
 ## 🖼️ UI Screenshots
 
 ### 🏠 Home Screen  
-<img src="./Screenshot%202025-04-22%20024933.png" width="350"/>
+<img src="./Screenshot%202025-04-22%20024933.png" width="200"/>
 
----
 
 ### 🎵 Playlist & Albums  
-<img src="./Screenshot%202025-04-22%20024942.png" width="350"/>
+<img src="./Screenshot%202025-04-22%20024942.png" width="200"/>
 
----
 
 ### 🎧 Now Playing View  
-<img src="./Screenshot%202025-04-22%20025339.png" width="350"/>
+<img src="./Screenshot%202025-04-22%20025339.png" width="200"/>
 
----
 
 ### 🧪 Figma Prototyping Mode  
-<img src="./Screenshot%202025-04-22%20200049.png" width="350"/>
+<img src="./Screenshot%202025-04-22%20200049.png" width="200"/>
 
 ---
 
