@@ -90,7 +90,7 @@ A full case study has been written to support this project. It includes:
 - 🎨 Visual Design Choices
 - 🧪 Usability Testing Feedback
 
-📘 **Download Case Study:** [`UIUX_Case_Study_Music_Player`]([])
+📘 **Download Case Study:** [`UIUX_Case_Study_Music_Player`]([UIUX_Case_Study_Music_Player.docx])
 
 ---
 
