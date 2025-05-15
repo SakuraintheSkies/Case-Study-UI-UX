@@ -58,22 +58,22 @@ To create a music app that:
 ## 🖼️ UI Screenshots
 
 ### 🏠 Home Screen  
-<img src="./Screenshot%202025-04-22%20024933.png" width="600"/>
+<img src="./Screenshot%202025-04-22%20024933.png" width="350"/>
 
 ---
 
 ### 🎵 Playlist & Albums  
-<img src="./Screenshot%202025-04-22%20024942.png" width="600"/>
+<img src="./Screenshot%202025-04-22%20024942.png" width="350"/>
 
 ---
 
 ### 🎧 Now Playing View  
-<img src="./Screenshot%202025-04-22%20025339.png" width="600"/>
+<img src="./Screenshot%202025-04-22%20025339.png" width="350"/>
 
 ---
 
 ### 🧪 Figma Prototyping Mode  
-<img src="./Screenshot%202025-04-22%20200049.png" width="600"/>
+<img src="./Screenshot%202025-04-22%20200049.png" width="350"/>
 
 ---
 
@@ -90,14 +90,14 @@ A full case study has been written to support this project. It includes:
 - 🎨 Visual Design Choices
 - 🧪 Usability Testing Feedback
 
-📘 **Download Case Study:** [`UIUX_Case_Study_Template_Music_Player.docx`](UIUX_Case_Study_Template_Music_Player.docx)
+📘 **Download Case Study:** [`UIUX_Case_Study_Music_Player`]([UIUX_Case_Study_Template_Music_Player.docx](https://docs.google.com/document/d/1XNMrbezSwanhZEzjiOkv71N9iV958eM5Y6eQkR_VuVA/edit?usp=sharing))
 
 ---
 
 ## 🔗 Key Links
 
 - 🎥 [Prototype Walkthrough (Figma)](https://www.figma.com/proto/JJLJKcuQaTa95eO7dwLrg1/final?node-id=1-362&p=f&t=8f5yxZiddhXsarDw-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1)
-- 📄 [Case Study Document](./UIUX_Case_Study_Template_Music_Player.docx)
+- 📄 [Case Study Document]([./UIUX_Case_Study_Music_Player.docx](https://docs.google.com/document/d/1XNMrbezSwanhZEzjiOkv71N9iV958eM5Y6eQkR_VuVA/edit?usp=sharing))
 
 ---
 
