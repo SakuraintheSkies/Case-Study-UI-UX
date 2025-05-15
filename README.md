@@ -78,6 +78,7 @@ To create a music app that:
 ---
 
 ## 📄 Case Study
+https://docs.google.com/document/d/1XNMrbezSwanhZEzjiOkv71N9iV958eM5Y6eQkR_VuVA/edit?usp=sharing
 
 A full case study has been written to support this project. It includes:
 
@@ -89,7 +90,7 @@ A full case study has been written to support this project. It includes:
 - 🎨 Visual Design Choices
 - 🧪 Usability Testing Feedback
 
-📘 **Download Case Study:** [`UIUX_Case_Study_Template_Music_Player.docx`](./UIUX_Case_Study_Template_Music_Player.docx)
+📘 **Download Case Study:** [`UIUX_Case_Study_Template_Music_Player.docx`](UIUX_Case_Study_Template_Music_Player.docx)
 
 ---
 
